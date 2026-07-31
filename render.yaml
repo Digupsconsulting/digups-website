@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: digups-consulting
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
