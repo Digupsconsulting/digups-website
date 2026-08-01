@@ -33,5 +33,5 @@ Biggest financial or business decision:
 ${message}`
   );
 
-  window.location.href = `mailto:hello@digupsconsulting.com?subject=${subject}&body=${body}`;
+  window.location.href = `mailto:info@digupsbp.com?subject=${subject}&body=${body}`;
 });
